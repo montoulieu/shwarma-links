@@ -14,5 +14,9 @@
   {
     "icon": "amazon",
     "url": "https://music.amazon.com/artists/B07DB43C7C/shwarma"
+  },
+  {
+    "icon": "soundcloud",
+    "url": "https://soundcloud.com/shwarma"
   }
 ]
