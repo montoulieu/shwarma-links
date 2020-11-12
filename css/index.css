@@ -6,6 +6,6 @@
 
 body {
   font-family: 'Karla';
-  background-image: url('../public/dont-trip-on-the-way-out.jpg');
+  background-image: url('../public/dont-trip-on-the-way-out.jpg') !important;
   @apply bg-gray-800 text-purple-600 bg-cover;
 }
