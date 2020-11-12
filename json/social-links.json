@@ -2,5 +2,17 @@
   {
     "icon": "bandcamp",
     "url": "https://music.shwarma.band"
+  },
+  {
+    "icon": "apple",
+    "url": "https://music.apple.com/gb/artist/shwarma/id1390163595"
+  },
+  {
+    "icon": "spotify",
+    "url": "https://open.spotify.com/artist/5WHhSHtZd60meLMNDxRbYV"
+  },
+  {
+    "icon": "amazon",
+    "url": "https://music.amazon.com/artists/B07DB43C7C/shwarma"
   }
 ]

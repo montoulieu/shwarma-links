@@ -18,10 +18,10 @@ function IndexPage() {
     <div className="flex flex-col min-h-screen">
       {/* FontAwesome CDN style tag */}
       <Head>
-        <title>shwarma | LinkEnt</title>
+        <title>shwarma | denver, co</title>
         <meta
           name="description"
-          content=""
+          content="feel the shwarmth with these sweet links"
         />
         <link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossOrigin="anonymous"></link>
       </Head>
