@@ -18,5 +18,9 @@
   {
     "icon": "soundcloud",
     "url": "https://soundcloud.com/shwarma"
+  },
+  {
+    "icon": "youtube",
+    "url": "https://music.youtube.com/channel/UCHl6N7GvVTmwZZw2gOa3yEg"
   }
 ]
