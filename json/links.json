@@ -1,28 +1,23 @@
 [
   {
+    "title": "Loveworthy Live Video Premiere",
+    "url": "https://stream.shwarma.band",
+    "emoji": "❤️"
+  },
+  {
     "title": "NEW SINGLE from Loveworthy Live EP",
     "url": "https://music.shwarma.band/album/loveworthy-live-ep",
     "emoji": "🎺"
   },
   {
-    "title": "RSVP to Loveworthy Live Video Premiere",
-    "url": "https://www.facebook.com/shwarmaband/posts/2952664751689513",
-    "emoji": "📼"
-  },
-  {
     "title": "Full Discography",
-    "url": "https://music.shwarma.band",
+    "url": "https://shwarma.bandcamp.com/music",
     "emoji": "💿"
   },
   {
     "title": "Offical Website",
     "url": "https://www.shwarma.band",
     "emoji": "🌐"
-  },
-  {
-    "title": "Latest Livestream",
-    "url": "https://www.youtube.com/watch?v=Ajtn2VI3Fug",
-    "emoji": "🎥"
   },
   {
     "title": "Merch",
