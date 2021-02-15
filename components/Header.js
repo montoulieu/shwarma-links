@@ -1,3 +1,4 @@
+import SocialLinks from "./SocialLinks";
 
 function Header() {
   return (
@@ -6,6 +7,7 @@ function Header() {
         <img src="./profile-pic.jpg" className="h-24 rounded-full mx-auto mb-5 shadow-lg" />
         <h1 className="font-bold text-3xl">shwarma</h1>
         <p className="text-xl">psychedelic rock from denver, co</p>
+        <SocialLinks />
       </div>
     </header>
   );

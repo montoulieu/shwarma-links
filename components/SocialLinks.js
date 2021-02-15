@@ -2,11 +2,11 @@ import socialLinks from '../json/social-links.json'
 
 function SocialLinks() {
   return (
-    <ul className="py-6">
+    <ul className="pt-6">
       {socialLinks.map(link => (
-        <li className="mr-3 inline" key={link.icon}>
+        <li className="mx-3 inline" key={link.icon}>
           <a
-            className="text-purple-400  hover:text-purple-600"
+            className="text-purple-400 duration-200 hover:text-purple-600"
             href={link.url}
             target="_blank"
             rel="noopener"
