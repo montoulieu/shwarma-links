@@ -1,6 +1,11 @@
 [
   {
-    "title": "Loveworthy Live Videos!",
+    "title": "Stream Kebab Now",
+    "url": "https://music.shwarma.band/",
+    "emoji": "🎺"
+  },
+  {
+    "title": "Loveworthy Live Videos",
     "url": "https://youtu.be/A7DGjpjdQ84",
     "emoji": "📺"
   },
@@ -10,19 +15,9 @@
     "emoji": "📰"
   },
   {
-    "title": "Party Guru Article on shwarma and Loveworthy",
+    "title": "Party Guru on shwarma",
     "url": "https://www.party-guru.com/shwarmas-loveworthy-live-ep-is-full-of-greasy-smooth-music/",
     "emoji": "🗞"
-  },
-  {
-    "title": "Bandcamp",
-    "url": "https://music.shwarma.band/",
-    "emoji": "🎺"
-  },
-  {
-    "title": "Full Discography",
-    "url": "https://shwarma.bandcamp.com/music",
-    "emoji": "💿"
   },
   {
     "title": "Offical Website",
