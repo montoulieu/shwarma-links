@@ -1,42 +1,42 @@
 [
-  {
-    "link": "Album Release Tix - Saturday 3/7",
-    "url": "https://thefederaltheatre.holdmyticket.com/tickets/456799",
-    "emoji": "🎟️"
-  },
-  {
-    "title": "SINGLE: Space Harpies",
-    "url": "https://www.youtube.com/watch?v=BokUHHhhztU&list=RDBokUHHhhztU&start_radio=1",
-    "emoji": "👽"
-  },
-  {
-    "title": "WATCH: Best Cerv'd Shwarm",
-    "url": "https://www.youtube.com/watch?v=foMOPOd26u0&t=1878s",
-    "emoji": "🛸"
-  },
-  {
-    "title": "READ: Kebab Album Review - Underdusken Norway",
-    "url": "https://underdusken.no/albumanmeldelse-musikkanmeldelse/shwarma---kebab/300512",
-    "emoji": "🗞"
-  },
-  {
-    "title": "WATCH: Loveworthy Live Videos",
-    "url": "https://youtu.be/A7DGjpjdQ84",
-    "emoji": "📺"
-  },
-  {
-    "title": "READ: Bandwagon Magazine Loveworthy Review",
-    "url": "https://bandwagmag.com/2021/03/album-review-shwarma-loveworthy-live/",
-    "emoji": "❤️"
-  },
-  {
-    "title": "SURF: Offical Website",
-    "url": "https://www.shwarma.band",
-    "emoji": "🌐"
-  },
-  {
-    "title": "GIVE US YOUR MONEY: Merch",
-    "url": "https://shwarma.bandcamp.com/merch",
-    "emoji": "🧢"
-  }
+    {
+        "link": "The Crypt - Friday 5/29",
+        "url": "https://www.eventbrite.com/e/daikaiju-vs-shwarma-and-nightfishing-at-the-crypt-tickets-1989036504729?fbclid=IwY2xjawRq3ZxleHRuA2FlbQIxMABicmlkETFWMkhSbjdMTzdwWHF3VnYwc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHsry1-Vt1EIcoTgVYyOp1bKB6cpqZzlS0IgD5PBiK5-iIrbdC9wdl1-EysDt_aem_kpvVWBGF9DC-ikeak52fXw",
+        "emoji": "🎟️"
+    },
+    {
+        "title": "SINGLE: Space Harpies",
+        "url": "https://www.youtube.com/watch?v=BokUHHhhztU&list=RDBokUHHhhztU&start_radio=1",
+        "emoji": "👽"
+    },
+    {
+        "title": "WATCH: Best Cerv'd Shwarm",
+        "url": "https://www.youtube.com/watch?v=foMOPOd26u0&t=1878s",
+        "emoji": "🛸"
+    },
+    {
+        "title": "READ: Kebab Album Review - Underdusken Norway",
+        "url": "https://underdusken.no/albumanmeldelse-musikkanmeldelse/shwarma---kebab/300512",
+        "emoji": "🗞"
+    },
+    {
+        "title": "WATCH: Loveworthy Live Videos",
+        "url": "https://youtu.be/A7DGjpjdQ84",
+        "emoji": "📺"
+    },
+    {
+        "title": "READ: Bandwagon Magazine Loveworthy Review",
+        "url": "https://bandwagmag.com/2021/03/album-review-shwarma-loveworthy-live/",
+        "emoji": "❤️"
+    },
+    {
+        "title": "SURF: Offical Website",
+        "url": "https://www.shwarma.band",
+        "emoji": "🌐"
+    },
+    {
+        "title": "GIVE US YOUR MONEY: Merch",
+        "url": "https://shwarma.bandcamp.com/merch",
+        "emoji": "🧢"
+    }
 ]
